@@ -7,7 +7,7 @@ public class TrainTrack {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Hola, este es el repo del proyecto de concurrente \n Escriba 1 para iniciar");
+        System.out.print("Hola, este es el repo del proyecto de concurrente \n Escriba 1 para iniciar: ");
         int a = scanner.nextInt();
 
 
