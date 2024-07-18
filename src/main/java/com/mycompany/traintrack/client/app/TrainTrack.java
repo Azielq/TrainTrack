@@ -1,10 +1,19 @@
 package com.mycompany.traintrack.client.app;
 
+import java.util.Scanner;
+
 public class TrainTrack {
 
     public static void main(String[] args) {
-        
-        System.out.println("Hola, este es el repo del proyecto de concurrente");
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Hola, este es el repo del proyecto de concurrente \n Escriba 1 para iniciar");
+        int a = scanner.nextInt();
+
+
+        while (a == 1) {
+            System.out.println("se presionó la tecla 1");
+        }
 
     }
 }
