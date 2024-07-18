@@ -1,4 +1,4 @@
-package com.mycompany.traintrack.server.app.TestsForGitub;
+package com.mycompany.traintrack.server.TestsForGitub;
 
 public class testForBranchDev {
     public testForBranchDev(){
