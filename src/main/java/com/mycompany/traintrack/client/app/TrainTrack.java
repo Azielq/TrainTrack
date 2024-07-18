@@ -13,6 +13,7 @@ public class TrainTrack {
 
         while (a == 1) {
             System.out.println("se presionó la tecla 1");
+            a++;
         }
 
     }
