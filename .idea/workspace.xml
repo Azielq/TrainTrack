@@ -20,9 +20,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2jgd1byhfDUyV9uJFZmSLU5MFlf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -35,7 +35,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE": "right",
     "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE": "left",
-    "git-widget-placeholder": "IGU-Launch",
+    "git-widget-placeholder": "Merging IGU-Launch",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/aziel/OneDrive/Desktop/ULACIT/3 Cuatri/Concurrente/Proyecto Final/TrainTrack",
     "node.js.detected.package.eslint": "true",
@@ -81,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721812439468</updated>
-      <workItem from="1721812440518" duration="2601000" />
+      <workItem from="1721812440518" duration="3315000" />
     </task>
     <task id="LOCAL-00001" summary="I launched a basic GUI, and primarily focused on the imports of the flatlaf dependency. Right now all the flatlaf things are working correctly.">
       <option name="closed" value="true" />
@@ -104,6 +104,23 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="I launched a basic GUI, and primarily focused on the imports of the flatlaf dependency. Right now all the flatlaf things are working correctly." />
